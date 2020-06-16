@@ -42,7 +42,7 @@ because we use 36 variation, we will segment the data with the principle predict
 
 the notebook of **data aquisition**, **data transformation**, **variation of input and model**, and **data segmentation can be found** [here](https://github.com/suparjotamin/Stock-price-movement-using-Convolutional-Neural-Network/blob/master/Stock_Price_Movement_Prediction_Best_variation.ipynb)
 
-and the notebook to review or the result to show which variation can be found [here]https://github.com/suparjotamin/Stock-price-movement-using-Convolutional-Neural-Network/blob/master/Stock_Price_Movement_Prediction_Best_Variation_Review.ipynb
+and the notebook to review or the result to show which variation can be found [here](https://github.com/suparjotamin/Stock-price-movement-using-Convolutional-Neural-Network/blob/master/Stock_Price_Movement_Prediction_Best_Variation_Review.ipynb)
 
 the most dominant variation to give the highest accuracy (73.3%) is variation with **timestep 60** and **timegap 14**. also, for the CNN model **with filter size 3 and 4 pairs of convolution and pooling**
 
@@ -51,5 +51,5 @@ we will simulate the trading of stock with the target to get the most profit. Th
 
 result :
 all of the simulation with model can outperform the simulation by investing (buy and hold)
-the notebook that do the simulation can be found [here]https://github.com/suparjotamin/Stock-price-movement-using-Convolutional-Neural-Network/blob/master/Stock_Price_Movement_Prediction_%2B_Simulation.ipynb
+the notebook that do the simulation can be found [here](https://github.com/suparjotamin/Stock-price-movement-using-Convolutional-Neural-Network/blob/master/Stock_Price_Movement_Prediction_%2B_Simulation.ipynb)
 
